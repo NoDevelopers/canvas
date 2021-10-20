@@ -12,11 +12,10 @@ require (
 	github.com/go-gl/glfw/v3.3/glfw v0.0.0-20210410170116-ea3d685f79fb
 	github.com/go-latex/latex v0.0.0-20210118124228-b3d85cf34e07
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
-	github.com/paulmach/orb v0.2.2
+	github.com/paulmach/orb v0.3.0
 	github.com/paulmach/osm v0.2.2
 	github.com/pkg/browser v0.0.0-20210115035449-ce105d075bb4
 	github.com/srwiley/oksvg v0.0.0-20210519022825-9fc0c575d5fe // indirect
-	github.com/tdewolff/argp v0.0.0-20210207150244-6acb4922ac20
 	github.com/tdewolff/minify/v2 v2.9.22
 	github.com/tdewolff/parse/v2 v2.5.21
 	github.com/tdewolff/test v1.0.6
