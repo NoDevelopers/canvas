@@ -3,7 +3,7 @@ module github.com/tdewolff/canvas
 go 1.17
 
 require (
-	fyne.io/fyne/v2 v2.2.1
+	fyne.io/fyne/v2 v2.2.2
 	gioui.org v0.0.0-20220615093012-72669e19bc29
 	github.com/ByteArena/poly2tri-go v0.0.0-20170716161910-d102ad91854f
 	github.com/adrg/sysfont v0.1.2
@@ -17,7 +17,6 @@ require (
 	github.com/paulmach/orb v0.7.1
 	github.com/paulmach/osm v0.5.0
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
-	github.com/tdewolff/argp v0.0.0-20220613210115-e74597c005ab
 	github.com/tdewolff/minify/v2 v2.11.10
 	github.com/tdewolff/parse/v2 v2.6.0
 	github.com/tdewolff/test v1.0.7
@@ -28,7 +27,7 @@ require (
 )
 
 require (
-	fyne.io/systray v1.10.0 // indirect
+	fyne.io/systray v1.10.1-0.20220621085403-9a2652634e93 // indirect
 	gioui.org/cpu v0.0.0-20220412190645-f1e9e8c3b1f7 // indirect
 	gioui.org/shader v1.0.6 // indirect
 	git.sr.ht/~sbinet/gg v0.3.1 // indirect
